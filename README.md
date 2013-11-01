@@ -12,3 +12,7 @@ Requires MacRuby 0.5 beta 2.
 37signals Menu authenticates using the system's shared cookie storage, so make sure you're logged into your Backpack account with Safari first.
 
 You'll need to change the value of the `BackpackAccountName` property in `Info.plist` to your Backpack account's subdomain before building.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/37signalsmenu/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
